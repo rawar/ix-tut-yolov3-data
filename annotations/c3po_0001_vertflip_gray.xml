@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ix-tut-processed</folder>
+	<filename>c3po_0001_vertflip.jpg</filename>
+	<path>/Users/rwartala/Google Drive/data/ix-tut-processed/c3po_0001_vertflip.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>c3po</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>116</ymin>
+			<xmax>271</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

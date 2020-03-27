@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ix-tut-processed</folder>
+	<filename>sturmtruppler_0010_resize.jpg</filename>
+	<path>/Users/rwartala/Google Drive/data/ix-tut-processed/sturmtruppler_0010_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sturmtruppler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>106</ymin>
+			<xmax>298</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

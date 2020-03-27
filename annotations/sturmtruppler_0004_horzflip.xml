@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ix-tut-processed</folder>
+	<filename>sturmtruppler_0004_horzflip.jpg</filename>
+	<path>/Users/rwartala/Google Drive/data/ix-tut-processed/sturmtruppler_0004_horzflip.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sturmtruppler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>66</ymin>
+			<xmax>273</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

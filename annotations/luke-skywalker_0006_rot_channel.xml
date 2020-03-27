@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ix-tut-processed</folder>
+	<filename>luke-skywalker_0006_rot.jpg</filename>
+	<path>/Users/rwartala/Google Drive/data/ix-tut-processed/luke-skywalker_0006_rot.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>luke-skywalker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>135</ymin>
+			<xmax>320</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
